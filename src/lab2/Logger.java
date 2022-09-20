@@ -38,3 +38,4 @@ public class Logger {
   }
 
 }
+// new
